@@ -8,12 +8,8 @@
 <h2> <img style="margin-right: 10px; margin-bottom:-8px" width="35px" src="./images/socials2.png" alt="status">Reachme Out</h2>
 <a href="http://www.linkedin.com">
 <img 
-style="border-width: 1px; 
-  border-style: solid; 
-  border-image: linear-gradient(to top right, #1B9CFC,#ff0000, #1B9CFC); 
-  border-image-slice: 1;"
    width="100px" 
-   src="./images/linkedinbutton.png" 
+   src="./images/linkedin.jpg" 
    alt="status">
   </a>   
   

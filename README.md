@@ -1,5 +1,5 @@
 
-<img src="https://scontent.fdac8-1.fna.fbcdn.net/v/t39.30808-6/401771064_1031053714809590_4180809092584086634_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeEPGOPlxirwjqW9lbKVEY3sOe1l0t69MDk57WXS3r0wOSnI0YunF_0_vR1M4JhbFIqJF3MApm3PT6ykfaQ5_xDc&_nc_ohc=hbXgE7Jp8JgAX9tJhNm&_nc_ht=scontent.fdac8-1.fna&oh=00_AfCu2E2jEmkbluKbcSpMx6kN_FGkjVre_QWnZcfy9GZiog&oe=65785880" alt="status">
+<img src="./images/banner.png" alt="status">
 
 <h2> <img style="margin-right: 10px" width="20px" src="./images/status2.png" alt="status">  Current Status</h2>
 

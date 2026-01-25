@@ -54,7 +54,7 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/yourusername/mern-saas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=mern-saas&theme=tokyonight&hide_border=true" />
   </a>
@@ -70,20 +70,20 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
   <a href="https://github.com/yourusername/ci-cd-github-actions">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ci-cd-github-actions&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</p> -->
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/mohammad-anar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/webanar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:ai.anarul4232@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>

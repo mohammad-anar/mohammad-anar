@@ -1,6 +1,6 @@
 <!-- WORLD TECHNOLOGIES BANNER -->
 <p align="center">
-  <img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg" alt="World Technology and Global Network" />
+  <img src="/images/developer-studio.jpg" width="100%" alt="World Technology and Global Network" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Anarul Islam</h1>
@@ -92,7 +92,7 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
 
 <!-- WEB TECHNOLOGIES FOOTER -->
 <p align="center">
-  <img src="https://images.pexels.com/photos/16129724/pexels-photo-16129724.jpeg" alt="Man coding web technologies" />
+  <img src="/images/coding-screen.png" width="100%" alt="Man coding web technologies" />
 </p>
 
 <p align="center">

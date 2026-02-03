@@ -92,7 +92,7 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
 
 <!-- WEB TECHNOLOGIES FOOTER -->
 <p align="center">
-  <img src="/images/coding-screen.png" width="100%" alt="Man coding web technologies" />
+  <img src="/images/Generated Image February 04, 2026 - 3_13AM.png" width="100%" alt="Man coding web technologies" />
 </p>
 
 <p align="center">

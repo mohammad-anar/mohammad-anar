@@ -52,7 +52,7 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
 
 ---
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects -->
 
 <!-- <p align="center">
   <a href="https://github.com/yourusername/mern-saas">

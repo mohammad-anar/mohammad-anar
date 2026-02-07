@@ -50,7 +50,7 @@ I build **scalable web applications** using **MERN stack**, **cloud services**, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 <!--## 🚀 Featured Projects -->
 
